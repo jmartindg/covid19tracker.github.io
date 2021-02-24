@@ -1,0 +1,78 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.title {
+  font-weight: 600;
+}
+
+i {
+  font-size: 40px;
+  padding: 20px;
+}
+
+#flag {
+  width: 40px;
+}
+
+.input-group {
+  max-width: 800px !important;
+}
+
+button:hover {
+  background: rgb(24, 24, 24) !important;
+}
+
+.tracker {
+  background: #e7e7e7;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 40px;
+}
+
+.tracker h2 {
+  font-weight: 600;
+}
+
+.card {
+  margin: 12px;
+  border-radius: 10px;
+  border: none;
+}
+
+.card h5 {
+  padding: 2px 10px 10px 18px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.col-sm {
+  padding: 0;
+}
+
+.data_api {
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0 0 13px 18px;
+  margin-top: -12px;
+}
+
+.fa-skull,
+.fa-book-dead,
+.fa-medkit,
+.fa-calendar,
+.fa-list-alt,
+.fa-calendar-day {
+  color: #fff;
+}
