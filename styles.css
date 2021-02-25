@@ -26,16 +26,12 @@ i {
   width: 40px;
 }
 
-.input-group {
-  max-width: 800px !important;
-}
-
-button:hover {
-  background: rgb(24, 24, 24) !important;
+select {
+  margin: 15px 0 10px 0;
 }
 
 .tracker {
-  background: #e7e7e7;
+  background: #f5f5f5;
   margin-top: 20px;
   border-radius: 10px;
   padding: 40px;
