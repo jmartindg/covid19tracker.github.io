@@ -8,6 +8,9 @@
 <li>To change the country name remove <strong>:country</strong></li>
 https://corona.lmao.ninja/v2/countries/:country
 
+# v1 Release
+<li>Search countries to see their statistics</li>
+
 # v2 Release
 <li>Search input removed</li>
 <li>Replaced with Select dropdown list</li>
